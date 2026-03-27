@@ -141,9 +141,9 @@
 
 <section>
   <h2>Contact</h2>
-  <p>Email: your@email.com</p>
-  <p>GitHub: github.com/yourusername</p>
-  <p>LinkedIn: linkedin.com/in/yourprofile</p>
+  <p>Email: aryanrajsrivastava52@gmail.com</p>
+  <p>GitHub: github.com/aryanraj1904</p>
+  <p>LinkedIn: https://www.linkedin.com/in/aryan-raj-srivastava-689a2a326?utm_source=share_via&utm_content=profile&utm_medium=member_android</p>
 
   <a href="#" class="btn">Download Resume</a>
 </section>
